@@ -44,7 +44,7 @@ A RadioMaster Pocket remote controller was used for remote control
 </p>
 
 # Analiza danych
-The *[Simulink](simulink/odczyt_danych.slx)* model was used to retrieve data from the platform. The data was analyzed using scripts located in the [matlab](matlab) folder. Some of the data used in this work is located in the [data](data) fold
+The *[Simulink](simulink/data_read.slx)* model was used to retrieve data from the platform. The data was analyzed using scripts located in the [matlab](Matlab) folder. Some of the data used in this work is located in the [data](data) fold
 
 <p align="center">
     <img src="images/example_analysis.png" width="60%">
